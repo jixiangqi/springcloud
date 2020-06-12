@@ -1,0 +1,15 @@
+
+I
+java:S16025",Remove useless curly braces around statement(¥—ığ8Èı»ª.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(§Ÿ¢ùÿÿÿÿ8ƒÊ¬ª.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ƒÊ¬ª.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÂßÅßÿÿÿÿÿ8‹Ğ¥ª.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïê€¯8ƒÊ¬ª.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ü¾’Èùÿÿÿÿ8¥¨£ª.
+y
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ôé×±úÿÿÿÿ8öëœª.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ç’§ª.
+I
+java:S1602-",Remove useless curly braces around statement(¥—ığ8Ú¥»ª.
