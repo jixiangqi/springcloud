@@ -1,12 +1,0 @@
-
-g	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(ºûØƒıÿÿÿÿ8öŒÙ±¥.
-C
-java:S1481"&Remove this unused "a" local variable.(ŠÒ‡ı8Ë˜­ß¤.
-j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô§å¾8ŸŠİ­¤.
-c
-java:S2142""FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8²¥å­¤.
-`
-java:S3518"CMake sure this expression can't be zero before doing this division.(ŠÒ‡ı8Ë˜­ß¤.
-j	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°´‚8÷‚Šß¤.
-j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÜ€ù8†â­¤.
-o	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¢üÿÿÿÿ8÷ãÛ±¥.
