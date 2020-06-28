@@ -1,0 +1,11 @@
+
+M
+java:S1172"0Remove this unused method parameter "exception".(¥üŒ…8ª¶Îá¬.
+V
+java:S3400"9Remove this method and declare a constant for this value.(ß’úæ8øÿÎá¬.
+[
+java:S3400"9Remove this method and declare a constant for this value.(‰£®üÿÿÿÿ8½ÔÏá¬.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¢¥Áñ8ª¶Îá¬.
+M
+java:S1172"0Remove this unused method parameter "exception".(®ŒãÀ8ª¶Îá¬.
